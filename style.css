@@ -1,0 +1,19 @@
+span{
+    color: yellow;
+}
+
+.icon span{
+
+ color: purple;
+ margin-left: 15%;
+ align-self: center;
+ align-content: center;
+ text-align: center;
+}
+
+.txt{
+    margin-top: 30px;
+    font-size:medium;
+}
+
+
